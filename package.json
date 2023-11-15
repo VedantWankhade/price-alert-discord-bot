@@ -1,0 +1,20 @@
+{
+  "name": "price-tracker",
+  "version": "1.0.0",
+  "description": "A price tracking discord bot.",
+  "main": "src/main.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "VedantWankhade",
+  "license": "ISC",
+  "devDependencies": {
+    "dotenv": "^16.3.1",
+    "node-cron": "^3.0.3",
+    "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "playwright": "^1.39.0"
+  }
+}
